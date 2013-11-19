@@ -1,4 +1,4 @@
-C_codes
-=======
-My all c codes are in this repo.
+Btech Labs
+===========
+My all lab codes are in this repo.
 ================================
